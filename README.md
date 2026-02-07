@@ -4,9 +4,9 @@ I turn business requirements into engineering solutions that work at scale, appr
 
 🛠 Tech
 
-Backend: Go, Gin, Gorm, Kafka, RabbitMQ, NATS
-Databases: PostgreSQL, MySQL, MariaDB, MongoDB, Redis, ClickHouse
-DevOps / Cloud: Docker, Kubernetes, Helm, AWS, GCP, Azure, S3, Terraform, Ansible, CI/CD, GitLab, Prometheus, Grafana, ELK, Nginx, Bash
+Backend: Go, Gin, Gorm, Kafka, RabbitMQ, NATS\
+Database: PostgreSQL, MySQL, MariaDB, MongoDB, Redis, ClickHouse\
+DevOps: Docker, Kubernetes, Helm, AWS, GCP, Azure, S3, Terraform, Ansible, CI/CD, GitLab, Prometheus, Grafana, ELK, Nginx, Bash
 
 📬 Contact me
 
