@@ -10,6 +10,6 @@ DevOps: Docker, Kubernetes, Helm, AWS, GCP, Azure, S3, Terraform, Ansible, CI/CD
 
 📬 Contact me
 
-📧 Email: pavelmikhailov427@gmail.com
-💻 Linkedin: https://linkedin.com/in/mikhailovpav/
-💬 WhatsApp: https://wa.me/+84328203260
+📧 Email: pavelmikhailov427@gmail.com\
+💻 Linkedin: https://linkedin.com/in/mikhailovpav\
+💬 WhatsApp: https://wa.me/+84328203260\
